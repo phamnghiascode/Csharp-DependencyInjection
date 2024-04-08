@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HReU6lSAGKfs3mYCgsY3RzrA34YVuDpa4xaMp/Daa31Vd0UO/BElODUS1WBddTMeV8Q4qyb3CflONlpYeupH1w==",
+  "success": true,
+  "projectFilePath": "D:\\Intern DEHA\\DI Csharp\\DI Csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nghia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\nghia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512"
+  ],
+  "logs": []
+}
